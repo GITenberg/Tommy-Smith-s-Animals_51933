@@ -1,0 +1,30 @@
+_repo: Tommy-Smith-s-Animals_51933
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ord, G. W.
+    gutenberg_agent_id: '46611'
+    url: http://www.gutenberg.org/2009/agents/46611
+creator:
+  author:
+    agent_name: Selous, Edmund
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '45735'
+    url: http://www.gutenberg.org/2009/agents/45735
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51933'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal welfare -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Tommy Smith's Animals
+url: http://www.gutenberg.org/ebooks/51933
