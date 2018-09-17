@@ -1,10 +1,13 @@
 _repo: Tommy-Smith-s-Animals_51933
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Ord, G. W.
     gutenberg_agent_id: '46611'
     url: http://www.gutenberg.org/2009/agents/46611
+covers:
+- cover_type: archival
+  image_path: 51933-h/images/cover.jpg
 creator:
   author:
     agent_name: Selous, Edmund
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '45735'
     url: http://www.gutenberg.org/2009/agents/45735
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51933#Tommy-Smith-s-Animals
 gutenberg_issued: '2016-05-02'
 gutenberg_type: Text
 identifiers:
